@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304164045207",
+    "project_id": "hanan-khald",
+    "storage_bucket": "hanan-khald.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304164045207:android:60cb43caa0ff2fb35e04d2",
+        "android_client_info": {
+          "package_name": "com.example.hanan_khaled_main"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5gnmhDX74A11VFf6jZ3BC2mVW5c0Znjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
